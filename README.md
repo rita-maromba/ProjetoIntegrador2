@@ -5,7 +5,8 @@
 Este projeto faz parte da disciplina tal Projeto Integrador 2, onde estamos abordando conceitos básicos da utilização do git e git-hub e criação de currículo.
 
 # CÚRRICULO BÁSICO
-("https://www.linkedin.com/in/rita-alves-641399302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app")
+[Perfil no Linkedin](https://www.linkedin.com/in/rita-alves-641399302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
 ## DADOS PESSOAIS
 
 Nome: Rita de Cássia Alves Goiano\
