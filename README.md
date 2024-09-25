@@ -52,4 +52,4 @@ Carga horária: 4h
 Carga horária: 3h
 
 9. Curso de Informática Básica/ Carga Horária: 40h
-[Certificado8](Certificado_curso_de_informática)  
+[Certificado9](Certificado_curso_de_informática)  
