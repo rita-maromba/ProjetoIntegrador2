@@ -46,7 +46,7 @@ Carga horária: 2h
 
 7. EXPOSIÇÃO - PIBIC/PIBEX/NEABI FIC/NUPA/NEPEF/IF EMPREENDEDOR\
 Carga horária: 4h
-[Certificado7](Certificado_7.pdf)
+[Certificado7.1](Certificado_7.1.pdf)
 
 8. EXPOSIÇÃO - Geladeira literária, a fascinante diversidade do reino animal e jogos literários\
 Carga horária: 3h
