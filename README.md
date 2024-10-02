@@ -46,10 +46,11 @@ Carga horária: 2h
 
 7. EXPOSIÇÃO - PIBIC/PIBEX/NEABI FIC/NUPA/NEPEF/IF EMPREENDEDOR\
 Carga horária: 4h
-[Certificado7.1](Certificado_7.1.pdf)
+[Certificado7](Certificado_7.pdf)
 
 8. EXPOSIÇÃO - Geladeira literária, a fascinante diversidade do reino animal e jogos literários\
 Carga horária: 3h
+[Certificado8](Certificado_8.pdf)
 
 9. Curso de Informática Básica/ Carga Horária: 40h
 [Certificado9](Certificado_curso_de_informática)
