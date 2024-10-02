@@ -55,4 +55,4 @@ Carga horária: 3h
 [Certificado9](Certificado_curso_de_informática)
 
 10. Curso de Libras/ Carga Horária: 60h
-[Certificado10](Certificado_de Libras)
+[Certificado10](Certificado_de_Libras)
